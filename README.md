@@ -1,5 +1,5 @@
 ## FATE
-Official implementation code of the paper: "FATE: Focal-modulated AtFATEion Encoder for temperature prediction" [(ArXiv link)](https://arxiv.org/abs/2106.14742).
+Official implementation code of the paper: "FATE: Focal-modulated Attention Encoder for temperature prediction" [(ArXiv link)]().
 
 ## Model architecture
 ![FATE](images/all_together.jpg)
