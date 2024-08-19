@@ -42,11 +42,11 @@ t-tashraf@microsoft.com
 
 
 ## Usage
-Execute the notebook on colab (Use TPU for FATE): [TT_All_models_experiments.ipynb](notebooks/TT_All_models_experiments.ipynb)
+Execute the notebook on colab (Use TPU for FATE): [Experiments_club.ipynb](notebooks/Experiments_club.ipynb)
 
 ## Citation
 If you use our data and code, please cite the paper using the following bibtex reference:
 ```
 
 ```
-
+Thank you for your attention. Cheers!
