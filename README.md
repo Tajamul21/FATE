@@ -19,7 +19,6 @@ One of the biggest issues facing humanity in the twenty-first century is climate
 ## Model architecture
 ![FATE](images/model_arch.png)
 
-![FATE](images/2.png)
 
 ![FATE](images/all_together.jpg)
 
