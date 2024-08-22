@@ -3,7 +3,7 @@
 <!-- TITLE -->
 # **FATE: Focal-modulated Attention Encoder for temperature prediction**
 
-[![arXiv](https://img.shields.io/badge/cs.LG-arXiv:2303.16203-b31b1b.svg)](https://arxiv.org/abs/2303.16203)
+[![arXiv](https://img.shields.io/badge/cs.LG-arXiv:2303.16203-b31b1b.svg)](http://arxiv.org/abs/2408.11336)
 [![Website](https://img.shields.io/badge/🌎-Website-blue.svg)](http://diffusion-classifier.github.io)
 </div>
 
