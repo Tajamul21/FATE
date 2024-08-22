@@ -46,6 +46,14 @@ Execute the notebook on colab (Use TPU for FATE): [Experiments_club.ipynb](noteb
 ## Citation
 If you use our data and code, please cite the paper using the following bibtex reference:
 ```
-
+@article{ashraf2024fatefocalmodulatedattentionencoder,
+      title={FATE: Focal-modulated Attention Encoder for Temperature Prediction}, 
+      author={Tajamul Ashraf and Janibul Bashir},
+      year={2024},
+      eprint={2408.11336},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2408.11336}, 
+}
 ```
 Thank you for your attention. Cheers!
